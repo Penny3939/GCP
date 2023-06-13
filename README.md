@@ -9,6 +9,6 @@
 (2) 任意語音秒數 (optional),輸入" 任一鍵" 隨時可停止錄音\
 (3) 任意語音秒數 (optional),輸入"空白鍵" 隨時可停止錄音
 
-![image](https://github.com/Penny3939/GCP/assets/125810833/f624f584-c24c-4ae5-82b1-483f4d915c18)\
+![image](https://github.com/Penny3939/GCP/assets/125810833/f624f584-c24c-4ae5-82b1-483f4d915c18)
 
 ![image](https://github.com/Penny3939/GCP/assets/125810833/0c7b0b2c-90f7-4b6f-82d7-f019e0f79a8c)
